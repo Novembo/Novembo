@@ -11,12 +11,10 @@ Je recherche un poste dans une entreprise bilingue français/anglais où Python 
 **Projets**
 
 - [`freelance-site`](https://github.com/Novembo/freelance-site) — Site vitrine complet : API FastAPI, paiement Mobile Money/carte vérifié côté serveur, Vue 3, tests, Docker, CI/CD.
-  [Démo](https://freelance-site-api.onrender.com/) · [Code de l'API](https://github.com/Novembo/freelance-site/tree/main/backend)
+    [Démo](https://freelance-site-api.onrender.com/) ·     [Code de l'API](https://github.com/Novembo/freelance-site/tree/main/backend)
 
 - [`auth-rbac-api`](https://github.com/Novembo/auth-rbac-api) — Authentification JWT et permissions par rôle (user / editor / admin), 19 tests pytest.
-  [Documentation et code GitHub](https://github.com/Novembo/auth-rbac-api).
-  
-  [Démo openapi documentation](https://auth-rbac-api-hvlo.onrender.com/docs)
+  [Documentation et code GitHub](https://github.com/Novembo/auth-rbac-api).    [Démo openapi documentation](https://auth-rbac-api-hvlo.onrender.com/docs)
 ---
 
 📫 leonardovodouhe06@gmail.com · [LinkedIn](https://www.linkedin.com/in/obed-vodouhe)
