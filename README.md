@@ -14,7 +14,8 @@ Je recherche un poste dans une entreprise bilingue français/anglais où Python 
   [Démo](https://freelance-site-api.onrender.com/) · [Code de l'API](https://github.com/Novembo/freelance-site/tree/main/backend)
 
 - [`auth-rbac-api`](https://github.com/Novembo/auth-rbac-api) — Authentification JWT et permissions par rôle (user / editor / admin), 19 tests pytest.
-  [Documentation et code GitHub](https://github.com/Novembo/auth-rbac-api)
+  [Documentation et code GitHub](https://github.com/Novembo/auth-rbac-api).
+  
   [Démo openapi documentation](https://auth-rbac-api-hvlo.onrender.com/docs)
 ---
 
