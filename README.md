@@ -10,11 +10,16 @@ Je recherche un poste dans une entreprise bilingue français/anglais où Python 
 
 **Projets**
 
-- [`freelance-site`](https://github.com/Novembo/freelance-site) — Site vitrine complet : API FastAPI, paiement Mobile Money/carte vérifié côté serveur, Vue 3, tests, Docker, CI/CD.
-    [Démo](https://freelance-site-api.onrender.com/) ·     [Code de l'API](https://github.com/Novembo/freelance-site/tree/main/backend)
+### Projets publics
 
-- [`auth-rbac-api`](https://github.com/Novembo/auth-rbac-api) — Authentification JWT et permissions par rôle (user / editor / admin), 19 tests pytest.
-  [Documentation et code GitHub](https://github.com/Novembo/auth-rbac-api).    [Démo openapi documentation](https://auth-rbac-api-hvlo.onrender.com/docs)
+- [`wordladder-mvp`](https://github.com/Novembo/wordladder-mvp) — Jeu EdTech multilingue de vocabulaire, avec modes solo et duel, frontend Vue 3, API FastAPI, Redis et WebSockets.
+- [`auth-rbac-api`](https://github.com/Novembo/auth-rbac-api) — API FastAPI d'authentification JWT et de contrôle d'accès par rôles, avec tests pytest. [Documentation interactive](https://auth-rbac-api-hvlo.onrender.com/docs).
+- [`freelance-site`](https://github.com/Novembo/freelance-site) — Site de services freelance avec API FastAPI, interface Vue 3, demandes de devis et commandes avec vérification de paiement côté serveur. [Démo](https://freelance-site-api.onrender.com/).
+- [`modiDocx`](https://github.com/Novembo/modiDocx) — Utilitaire Python pour modifier le texte de documents DOCX, y compris dans les paragraphes et les tableaux.
+
+### Projet privé
+
+- [`TODO`](https://github.com/Novembo/TODO) — API de gestion de tâches construite avec Django REST Framework, avec opérations CRUD, pagination et documentation OpenAPI. Le dépôt est privé et son contenu n'est pas accessible publiquement.
 ---
 
 📫 leonardovodouhe06@gmail.com · [LinkedIn](https://www.linkedin.com/in/obed-vodouhe)
