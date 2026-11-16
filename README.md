@@ -2,7 +2,7 @@
 
 Basé à Cotonou, Bénin. Six ans de pratique de Python, dont plus de trois ans en entreprise. Expérience en API REST (Django, FastAPI), authentification JWT/RBAC, tests, CI/CD et interfaces Vue.js, React et React Native.
 
-Je recherche un poste dans une entreprise bilingue français/anglais où Python est utilisé au quotidien, avec des perspectives d’évolution.
+Je recherche un environnement stimulant, riche en défis et en possibilités d’évolution, où je pourrai contribuer à des projets ayant un impact concret au quotidien et mettre Python au cœur de mon travail.
 
 **Stack :** Python · Django · FastAPI · PostgreSQL · SQLite · Vue.js · React · React Native · Docker · GitHub Actions
 
