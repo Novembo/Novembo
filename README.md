@@ -1,4 +1,4 @@
-# Obed VODOUHE — Développeur Full-Stack Python
+# Obed VODOUHE — Développeur Full-Stack Python & IA
 
 Basé à Cotonou, Bénin. Six ans de pratique de Python, dont plus de trois ans en entreprise. Expérience en API REST (Django, FastAPI), authentification JWT/RBAC, tests, CI/CD et interfaces Vue.js, React et React Native.
 
