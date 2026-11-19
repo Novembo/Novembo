@@ -15,5 +15,8 @@ Je recherche un environnement stimulant, riche en défis et en possibilités d�
 - [TODO](https://github.com/Novembo/TODO) — API publique de gestion de tâches en Django REST Framework. [Docs](https://novembo-todo-api.onrender.com/api/docs/) · [CI](https://github.com/Novembo/TODO/actions/workflows/ci.yml).
 - [wordladder-mvp](https://github.com/Novembo/wordladder-mvp) — Jeu éducatif multilingue avec frontend Vue 3, API FastAPI, Redis et WebSockets. [Site](https://novembo.github.io/wordladder-mvp/) · [CI](https://github.com/Novembo/wordladder-mvp/actions/workflows/ci.yml).
 - [modiDocx](https://github.com/Novembo/modiDocx) — Application Windows autonome pour modifier du texte dans les paragraphes et tableaux `.docx`. [Télécharger v1.0.0](https://github.com/Novembo/modiDocx/releases/tag/v1.0.0) · [CI](https://github.com/Novembo/modiDocx/actions/workflows/ci.yml).
+- [secureapi-platform](https://github.com/Novembo/secureapi-platform) — Plateforme API multi-tenante sécurisée avec audit immuable et RBAC avancé. (MVP en cours).
+
+**Licence :** Tous les projets ci-dessus sont distribués sous licence MIT.
 
 📫 [leonardovodouhe06@gmail.com](mailto:leonardovodouhe06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/obed-vodouhe)
